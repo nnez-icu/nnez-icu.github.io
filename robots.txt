@@ -1,0 +1,16 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /tags/%E6%8E%A8%E8%8D%90%E9%98%85%E8%AF%BB
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+Sitemap: https://www.nnez.icu/sitemap.xml
+Sitemap: https://www.nnez.icu/baidusitemap.xml
+
