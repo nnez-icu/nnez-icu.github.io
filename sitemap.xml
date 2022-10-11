@@ -270,20 +270,6 @@
 
   
   <url>
-    <loc>https://www.nnez.icu/tags/%E4%BA%8C%E9%9F%B3/</loc>
-    <lastmod>2022-10-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.nnez.icu/tags/%E7%AC%91%E8%AF%9D/</loc>
-    <lastmod>2022-10-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.nnez.icu/tags/%E8%AE%BA/</loc>
     <lastmod>2022-10-11</lastmod>
     <changefreq>daily</changefreq>
@@ -298,7 +284,7 @@
   </url>
   
   <url>
-    <loc>https://www.nnez.icu/tags/%E8%AF%97/</loc>
+    <loc>https://www.nnez.icu/tags/%E7%AC%91%E8%AF%9D/</loc>
     <lastmod>2022-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -312,7 +298,21 @@
   </url>
   
   <url>
+    <loc>https://www.nnez.icu/tags/%E8%AF%97/</loc>
+    <lastmod>2022-10-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.nnez.icu/tags/%E4%BD%9C%E5%93%81/</loc>
+    <lastmod>2022-10-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.nnez.icu/tags/%E4%BA%8C%E9%9F%B3/</loc>
     <lastmod>2022-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
