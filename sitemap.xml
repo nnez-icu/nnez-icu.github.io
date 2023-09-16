@@ -2,34 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.nnez.icu/README/</loc>
-    
-    <lastmod>2023-09-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.nnez.icu/%E5%8F%B2%E8%AE%B0/</loc>
-    
-    <lastmod>2023-09-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.nnez.icu/%E6%9B%BE%E6%99%B6%E6%9C%AC%E7%BA%AA/</loc>
-    
-    <lastmod>2023-09-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.nnez.icu/speechundernationalflagbyzeng/</loc>
     
     <lastmod>2023-09-16</lastmod>
     
@@ -65,7 +38,34 @@
   </url>
   
   <url>
+    <loc>https://www.nnez.icu/speechundernationalflagbyzeng/</loc>
+    
+    <lastmod>2023-09-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.nnez.icu/q1/</loc>
+    
+    <lastmod>2023-09-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.nnez.icu/README/</loc>
+    
+    <lastmod>2023-09-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.nnez.icu/%E6%9B%BE%E6%99%B6%E6%9C%AC%E7%BA%AA/</loc>
     
     <lastmod>2023-09-16</lastmod>
     
